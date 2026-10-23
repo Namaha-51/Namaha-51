@@ -1,0 +1,41 @@
+{
+  "title": "IMPACT OVERVIEW",
+  "username": "Naman",
+  "metrics": [
+    {
+      "key": "products",
+      "label": "PRODUCTS SHIPPED",
+      "value": "4+",
+      "detail": "PRODUCT DELIVERY"
+    },
+    {
+      "key": "businesses",
+      "label": "BUSINESSES / CLIENTS",
+      "value": "14+",
+      "detail": "PARTNERSHIPS"
+    },
+    {
+      "key": "projects",
+      "label": "PROJECTS BUILT",
+      "value": "13+",
+      "detail": "EXECUTION"
+    },
+    {
+      "key": "audience",
+      "label": "AUDIENCE REACHED",
+      "value": "50,000+",
+      "detail": "AUDIENCE REACH"
+    }
+  ],
+  "theme": {
+    "background": "#050906",
+    "panel": "#0A120D",
+    "panel_alt": "#0D1911",
+    "border": "#23432D",
+    "green": "#7CFF9B",
+    "green_bright": "#B5FFC4",
+    "text": "#E5F5E9",
+    "muted": "#8CA995",
+    "dim": "#45634D"
+  }
+}
