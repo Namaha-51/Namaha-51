@@ -7,9 +7,9 @@
 
 I build at the intersection of hardware, software, and business.
 
-<img src="./animated-ascii-portrait.svg" width="100%" alt="Animated ASCII portrait"/>
+<img src="./animated-ascii-portrait.svg" width="600" alt="Animated ASCII portrait"/>
 
-[Portfolio](https://www.visn.co.in) · [LinkedIn](https://www.linkedin.com/in/naman-agarwal-770915329) · [GitHub](https://github.com/Namaha-51)
+[Portfolio](https://www.visn.co.in) · [LinkedIn](https://www.linkedin.com/in/naman-agarwal-770915329) 
 
 </div>
 
