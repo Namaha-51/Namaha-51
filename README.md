@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <h1>Naman Agarwal</h1>
@@ -17,83 +16,53 @@
   <a href="https://github.com/Namaha-51">GitHub</a>
 </p>
 
-</div>
-
----
-
-<div align="center">
+<hr>
 
 <h2>About Me</h2>
 
-</div>
+<p>I'm an Electrical and Electronics Engineering student interested in building practical technology, understanding complex systems, and turning ideas into useful products.</p>
 
-I'm an Electrical and Electronics Engineering student interested in building practical technology, understanding complex systems, and turning ideas into useful products.
+<p>My work spans embedded systems, software development, product strategy, and early stage ventures. I enjoy moving between hardware and software, from designing logic circuits to building applications and exploring product ideas.</p>
 
-My work spans embedded systems, software development, product strategy, and early stage ventures. I enjoy moving between hardware and software, from designing logic circuits to building applications and exploring product ideas.
-
-Currently focused on embedded systems, software engineering, and product development.
-
-<div align="center">
+<p>Currently focused on embedded systems, software engineering, and product development.</p>
 
 <h2>Selected Projects</h2>
 
-</div>
+<h3>16 Bit ALU</h3>
 
-### 16 Bit ALU
+<p>Designed and built a 16 bit Arithmetic Logic Unit from scratch using 74HC logic gates.</p>
+<p>Explored digital logic, arithmetic operations, combinational circuits, and low level hardware design.</p>
+<p><strong>Technologies:</strong> Digital Electronics, Logic Design, Hardware</p>
 
-Designed and built a 16 bit Arithmetic Logic Unit from scratch using 74HC logic gates.
+<h3>SmartAgroSense</h3>
 
-Explored digital logic, arithmetic operations, combinational circuits, and low level hardware design.
+<p>An AI powered, offline first agricultural platform designed to make useful farming information more accessible.</p>
+<p>Features include soil classification, a multilingual AI assistant, field mapping, and an agricultural marketplace.</p>
+<p><strong>Technologies:</strong> AI, AgriTech, Full Stack Development, Product Design</p>
 
-**Technologies:** Digital Electronics, Logic Design, Hardware
+<h3>PaisaProfit</h3>
 
-### SmartAgroSense
-
-An AI powered, offline first agricultural platform designed to make useful farming information more accessible.
-
-Features include soil classification, a multilingual AI assistant, field mapping, and an agricultural marketplace.
-
-**Technologies:** AI, AgriTech, Full Stack Development, Product Design
-
-### PaisaProfit
-
-A gamified stock market learning platform concept designed to make financial education more interactive and accessible.
-
-**Focus:** FinTech, Product Thinking, Gamification
-
-<div align="center">
+<p>A gamified stock market learning platform concept designed to make financial education more interactive and accessible.</p>
+<p><strong>Focus:</strong> FinTech, Product Thinking, Gamification</p>
 
 <h2>Technical Skills</h2>
 
-</div>
+<p><strong>Programming Languages</strong><br>
+Python · Java · C++ · JavaScript · TypeScript</p>
 
-**Programming Languages**
+<p><strong>Software Development</strong><br>
+React · Node.js · Express · MongoDB · Git</p>
 
-Python · Java · C++ · JavaScript · TypeScript
+<p><strong>Electronics and Embedded Systems</strong><br>
+Digital Logic Design · Microcontrollers · Arduino · ESP32 · STM32 · Circuit Prototyping</p>
 
-**Software Development**
-
-React · Node.js · Express · MongoDB · Git
-
-**Electronics and Embedded Systems**
-
-Digital Logic Design · Microcontrollers · Arduino · ESP32 · STM32 · Circuit Prototyping
-
-**Design and Product**
-
-Figma · UI/UX · Product Strategy · Prototyping
-
-<div align="center">
+<p><strong>Design and Product</strong><br>
+Figma · UI/UX · Product Strategy · Prototyping</p>
 
 <h2>Beyond Code</h2>
 
-</div>
-
-I'm interested in product management, startup strategy, consumer psychology, and building products that solve real problems.
-
-I enjoy experimenting with new ideas, participating in hackathons, and working with teams to take projects from concept to execution.
-
-<div align="center">
+<p>I'm interested in product management, startup strategy, consumer psychology, and building products that solve real problems.</p>
+<p>I enjoy experimenting with new ideas, participating in hackathons, and working with teams to take projects from concept to execution.</p>
 
 <h2>Get in Touch</h2>
 
