@@ -6,7 +6,8 @@
 
 <p>I build at the intersection of hardware, software, and business.</p>
 
-<img src="./animated-ascii-portrait.svg" width="100%" alt="Animated ASCII portrait of Naman Agarwal" />
+<!-- Reduced width allows the center alignment to push it inward -->
+<img src="./animated-ascii-portrait.svg" width="65%" alt="Animated ASCII portrait of Naman Agarwal" />
 
 <p>
   <a href="https://www.visn.co.in">Portfolio</a>
