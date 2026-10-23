@@ -1,8 +1,1 @@
-
-<div align="center">
-  <img
-    src="./impact-dashboard.svg"
-    width="70%"
-    alt="Animated impact dashboard"
-  />
-</div>
+![Animated impact dashboard](https://raw.githubusercontent.com/Namaha-51/Namaha-51/main/impact-dashboard.gif)
