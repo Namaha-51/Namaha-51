@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="244" viewBox="0 0 960 244" role="img" aria-label="By the numbers: 58,000+ users, 3 hackathons won, 13+ projects built, 3,500+ participants across events organised">
+  <style>
+    :root {
+      --bg: #0d1117;
+      --card: #161b22;
+      --border: #30363d;
+      --fg: #e6edf3;
+      --muted: #8b949e;
+      --accent: #58a6ff;
+      --ok: #3fb950;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #ffffff;
+        --card: #f6f8fa;
+        --border: #d0d7de;
+        --fg: #1f2328;
+        --muted: #656d76;
+        --accent: #0969da;
+        --ok: #1a7f37;
+      }
+    }
+    .bg { fill: var(--bg); stroke: var(--border); stroke-width: 1; }
+    .card { fill: var(--card); stroke: var(--border); stroke-width: 1; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .head { font-size: 12px; fill: var(--muted); letter-spacing: 0.5px; }
+    .idx { font-size: 11px; fill: var(--muted); }
+    .num { font-size: 46px; font-weight: 700; fill: var(--fg); letter-spacing: -1px; }
+    .plus { fill: var(--accent); }
+    .label { font-size: 14px; font-weight: 600; fill: var(--fg); }
+    .sub { font-size: 12px; fill: var(--muted); }
+    .bar { fill: var(--accent); }
+    .dot { fill: var(--ok); }
+    .rule { stroke: var(--border); stroke-width: 1; }
+  </style>
+
+  <rect class="bg" x="0.5" y="0.5" width="959" height="243" rx="8"/>
+
+  <!-- header -->
+  <circle class="dot" cx="32" cy="32" r="4"/>
+  <text class="mono head" x="46" y="36">~/namaha-51 <tspan fill="var(--accent)">$</tspan> stats --summary</text>
+  <line class="rule" x1="24" y1="52" x2="936" y2="52"/>
+
+  <!-- 01 -->
+  <g transform="translate(24,68)">
+    <rect class="card" x="0.5" y="0.5" width="215" height="155" rx="6"/>
+    <rect class="bar" x="16" y="0" width="24" height="2"/>
+    <text class="mono idx" x="200" y="22" text-anchor="end">01</text>
+    <text class="mono num" x="16" y="72">58,000<tspan class="plus">+</tspan></text>
+    <text class="sans label" x="16" y="98">Users across products</text>
+    <text class="sans label" x="16" y="116">I've worked on</text>
+    <text class="sans sub" x="16" y="138">apps · client sites ·</text>
+    <text class="sans sub" x="16" y="152">mentoring</text>
+  </g>
+
+  <!-- 02 -->
+  <g transform="translate(256,68)">
+    <rect class="card" x="0.5" y="0.5" width="215" height="155" rx="6"/>
+    <rect class="bar" x="16" y="0" width="24" height="2"/>
+    <text class="mono idx" x="200" y="22" text-anchor="end">02</text>
+    <text class="mono num" x="16" y="72">3</text>
+    <text class="sans label" x="16" y="98">Hackathons won</text>
+    <text class="sans sub" x="16" y="138">including 1st of 1,100+</text>
+    <text class="sans sub" x="16" y="152">at national level</text>
+  </g>
+
+  <!-- 03 -->
+  <g transform="translate(488,68)">
+    <rect class="card" x="0.5" y="0.5" width="215" height="155" rx="6"/>
+    <rect class="bar" x="16" y="0" width="24" height="2"/>
+    <text class="mono idx" x="200" y="22" text-anchor="end">03</text>
+    <text class="mono num" x="16" y="72">13<tspan class="plus">+</tspan></text>
+    <text class="sans label" x="16" y="98">Projects built</text>
+    <text class="sans sub" x="16" y="138">software · hardware ·</text>
+    <text class="sans sub" x="16" y="152">the space between</text>
+  </g>
+
+  <!-- 04 -->
+  <g transform="translate(720,68)">
+    <rect class="card" x="0.5" y="0.5" width="215" height="155" rx="6"/>
+    <rect class="bar" x="16" y="0" width="24" height="2"/>
+    <text class="mono idx" x="200" y="22" text-anchor="end">04</text>
+    <text class="mono num" x="16" y="72">3,500<tspan class="plus">+</tspan></text>
+    <text class="sans label" x="16" y="98">Participants across</text>
+    <text class="sans label" x="16" y="116">events I've organised</text>
+    <text class="sans sub" x="16" y="138">hackathons and</text>
+    <text class="sans sub" x="16" y="152">startup expos</text>
+  </g>
+
+  <!-- footer -->
+  <line class="rule" x1="24" y1="228" x2="936" y2="228"/>
+</svg>
